@@ -1,7 +1,8 @@
 # BlockEHR
 Health Records on Blockchain
 
-### IMP FOR @CONTRIBUTORS - PLEASE DO NOT **FORK** THIS REPOSITORY
+### IMP FOR @CONTRIBUTORS - PLEASE DO NOT __FORK__ THIS REPOSITORY
+===================================================================
 CS-5800 Final Year Blockchain Project supervised by Prof. Dr. R. Wei
 
 ## Description
