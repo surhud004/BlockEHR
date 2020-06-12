@@ -1,7 +1,13 @@
 # BlockEHR
-Health Records on Blockchain
+Health Records on Blockchain.
 
-CS-5800 Final Year Blockchain Project supervised by Prof. Dr. R. Wei
+CS-5800 Final Year Blockchain Project supervised by Prof. Dr. R. Wei.
+
+## How to Use the App
+1. Install Metamask from [here](https://metamask.io/download.html).
+2. Setup Metamask account. You can follow this [tutorial](https://www.trufflesuite.com/docs/truffle/getting-started/truffle-with-metamask#setting-up-metamask).
+3. Visit [Ropsten Faucet](https://faucet.ropsten.be/) and add 1 Free Ether to your Ropsten Account on Metamask.
+4. Launch our App by visiting [BlockEHR](https://block-ehr.herokuapp.com/).
 
 ## Description
 Blockchain is a recent technology which maintains a public chain of records which are connected to each other using security algorithms of cryptography. In this project, we proposed and implemented a system which can be used to share patient’s medical file records securely through blockchain and cryptography algorithms like Advanced Encryption Standard (AES) and Rivest, Shamir, Adleman (RSA) were implemented to encrypt and decrypt the records. The figure below depicts the architecture of the proposed system.
